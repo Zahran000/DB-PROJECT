@@ -1,7 +1,6 @@
 """
 student course registration system
 student_portal.py — all student-facing gui screens
-prepared by Mohammad Burair, Syed Zahran, Maaz Iqbal | fast nuces karachi | 4th semester
 """
 
 import tkinter as tk
