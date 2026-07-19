@@ -1,7 +1,6 @@
 """
 student course registration system
 main.py — entry point: role selection, login, and register screens
-prepared by mohammad burair | fast nuces karachi | 4th semester
 """
 
 import tkinter as tk

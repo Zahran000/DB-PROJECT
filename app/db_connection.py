@@ -1,7 +1,6 @@
 """
 student course registration system
 db_connection.py — handles mysql connection
-prepared by Mohammad Burair, Syed Zahran, Maaz Iqbal | fast nuces karachi | 4th semester
 """
 
 import mysql.connector

@@ -1,7 +1,6 @@
 """
 student course registration system
 auth.py — login and registration logic for students and admins
-prepared by mohammad burair | fast nuces karachi | 4th semester
 """
 
 from app.db_connection import get_connection
